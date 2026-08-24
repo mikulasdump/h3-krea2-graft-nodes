@@ -14,7 +14,7 @@ and corrections welcome.
 ## Nodes in this repo
 
 ### `comfyui_tenstrip_graft/` -- content graft (concepts, texture)
-Per-head Q/V/out_proj/MLP transplant. K never touched (breaks audio).
+Per-head Q/V/out_proj/MLP transplant. K sould not be touched (breaks audio), but in t2v it may work.
 Concepts land reliably; character fidelity still faint even after
 tuning -- open problem. See the folder's own README for exact
 strength/block-range findings.
