@@ -39,6 +39,8 @@ noise.
 Each folder -> its own subfolder in `ComfyUI/custom_nodes/`. Don't merge
 them. Restart ComfyUI fully after adding.
 
+there are also 2 scripts with grafting in python after you test it. old svd type and new, similar to the node. 
+
 ## Credits
 
 - **TenStrip** (huggingface.co/TenStrip) -- the per-head band-aware graft
