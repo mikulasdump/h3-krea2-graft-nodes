@@ -16,7 +16,7 @@ public writeups. Use at your own risk, still WIP.
   already-grafted H3 checkpoint. Separate use case.
 
 ## TL;DR results
-
+https://www.reddit.com/r/StableDiffusion/s/dtlMsvtGs4
 Content graft works. Same character-shift (color scheme, helmet shape)
 showed up consistently across multiple parameter runs, same seed -- not
 one lucky image. That's the strongest evidence so far this isn't just
